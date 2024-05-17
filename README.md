@@ -7,6 +7,11 @@ Todo:
 link an ACID SQL backend to a GUI provider menu
 set up a separate login system
 
+Where to start:
+SQL?
+UI Stuff?
+to be updated.
+
 Some ideas later on:
 Make it look nice
 Use voice recognition to take notes from the doctor or care provider
